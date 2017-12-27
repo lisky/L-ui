@@ -1,0 +1,20 @@
+/*!
+ * L-UI v1.0.0 (https://github.com/lisky/L-ui)
+ * Copyright 2017-2018 Lisky.
+ * Licensed under MIT (https://github.com/lisky/L-ui/blob/master/LICENSE)
+ */
+
+/* Base CSS
+   ========================================================================== */
+html{
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+body{
+    position: relative;
+    font-weight: normal;
+    font-size: 1.6rem;
+    font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", "FontAwesome", sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
